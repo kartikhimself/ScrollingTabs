@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+     <string-array name="tab_titles">
+        <item>@string/tab_recent</item>
+        <item>@string/tab_artists</item>
+        <item>@string/tab_albums</item>
+        <item>@string/tab_songs</item>
+        <item>@string/tab_playlists</item>
+        <item>@string/tab_genres</item>
+    </string-array>
+    
+     <string-array name="song_titles">
+        <item>Metallica</item>
+        <item>Alter Bridge</item>
+        <item>Chris Daughtry</item>
+        <item>Kris Allen</item>
+        <item>Miley Cyrus</item>
+        <item>Adele</item>
+        <item>Metallica</item>
+        <item>Alter Bridge</item>
+        <item>Chris Daughtry</item>
+        <item>Kris Allen</item>
+        <item>Miley Cyrus</item>
+        <item>Adele</item>
+        
+    </string-array>
+
+</resources>

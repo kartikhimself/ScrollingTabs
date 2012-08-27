@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- A transparent black -->
+    <color name="transparent_black">#99000000</color>
+    
+    <!-- A transparent white -->
+    <color name="transparent_white">#99ffffff</color>
+    
+    
+
+    <!-- A semi-transparent dark Holo shade of blue -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+
+    <!-- Black -->
+    <color name="black">#ff000000</color>
+
+    <!-- White -->
+    <color name="white">#ffffffff</color>
+
+    <!-- Quick Queue line seperator -->
+    <color name="queue_callout_line">#99ffffff</color>
+    
+   
+	<color name="offWhite">#DDDDDD</color>
+	<color name="darkGray">#333333</color>
+	<color name="lightGray">#777777</color>
+	<color name="brightRed">#FF0000</color>
+	<color name="brightGreen">#00FF00</color>
+	<color name="brightBlue">#0000FF</color>
+	<color name="darkBlue">#880000FF</color>
+	 <color name="actionbar_separator">#3d4544</color>
+    <color name="actionbar_title">#33B5E5</color>
+    <color name="actionbar_background_start">#000000</color>
+    <color name="actionbar_background_centre">#000000</color>
+    <color name="actionbar_background_end">#000000</color>
+    <color name="actionbar_background_item_pressed_start">#177BBD</color>
+    <color name="actionbar_background_item_pressed_end">#33B5E5</color>
+	<color name="scrollbar_background">#222222</color>
+	<color name="transGray">#cc444444</color>
+	<color name="SpringGreen">#4AA02C</color>
+	<color name="grayDivider">#3d4544</color>
+	<color name="icslightblue">#33B5E5</color>
+	<color name="icsdarkblue">#177BBD</color>
+	<color name="icsgrey">#555555</color>
+	<color name="icsblack">#222222</color>
+	<color name="icswhite">#F9F9F9</color>
+    
+
+</resources>
